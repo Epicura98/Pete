@@ -51,9 +51,9 @@ interface ReceivingRecord {
 }
 
 // --- CONSTANTS (No changes to logic) ---
-const APP_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw8qfARClTJ_DlpOQfd1CQPx0oN2qgiA_GCPitIJ7fku17t13DNBohlwQI_Cg3GY-kWwg/exec";
-const GOOGLE_DRIVE_FOLDER_ID = "1ZGaJDMMH17cw3yNQEHiqTXEPt5tfWNLU";
-const PUBLIC_SHEET_ID_MASTER = "1emeuGQFFzKjEIk51WBeM2r_hGwjXhUqcvoho2fmqmBM";
+const APP_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxMI4_UArDut9LE6eDG4OMIH1WLaqh83VkD04oy7OMOyoT9SFPoo-r1oyRA_XLDCrqNw/exec";
+const GOOGLE_DRIVE_FOLDER_ID = "196wSZ1T7O8LxJkBboajc5hUBxHvUzHkQ";
+const PUBLIC_SHEET_ID_MASTER = "1GM8pDPIwlo0JP21PcJAicPwC-Rik5--b-RvPHgdKa6U";
 const PUBLIC_SHEET_MASTER_NAME = "Master";
 const RECEIVING_DATA_SHEET_NAME = "Reciving";
 const VENDOR_COLUMN_INDEX_IN_MASTER_SHEET = 5;

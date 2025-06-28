@@ -33,7 +33,7 @@ const LockIcon = (props: React.SVGProps<SVGSVGElement>) => (
 
 
 // --- CONSTANTS (No changes to logic) ---
-const PUBLIC_SHEET_ID_LOGIN = "1emeuGQFFzKjEIk51WBeM2r_hGwjXhUqcvoho2fmqmBM";
+const PUBLIC_SHEET_ID_LOGIN = "1GM8pDPIwlo0JP21PcJAicPwC-Rik5--b-RvPHgdKa6U";
 const LOGIN_SHEET_NAME = "Login";
 
 // --- LoginPage Component (Logic untouched, UI updated) ---
